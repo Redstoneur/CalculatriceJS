@@ -14,7 +14,7 @@ Pour lancer le projet, il faut lancer la commande `npm start`.
 
 ## Auteurs
 
--   **ALipio SIMOES**
+-   [Alipio SIMOES](https://github.com/Redstoneur)
 
 ## Capture d'écran
 
