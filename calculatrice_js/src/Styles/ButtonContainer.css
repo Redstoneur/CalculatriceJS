@@ -1,0 +1,22 @@
+.ClassButtonContainer {
+    height: 70%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #e6e6e6;
+    box-shadow: 0 0 5px black;
+}
+
+.ClassButtonContainerPav{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    height: 75%;
+}
+
+.ClassButtonContainerEgual{
+    padding: 10px;
+    margin: 10px;
+    height: 20%;
+}

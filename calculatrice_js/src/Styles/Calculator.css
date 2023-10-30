@@ -1,0 +1,47 @@
+/*.ClassCalculator {*/
+/*    width: 400px;*/
+/*    height: 600px;*/
+/*    Border: 1px solid #000000;*/
+/*    margin: auto;*/
+/*    margin-top: 100px;*/
+/*    padding: 10px;*/
+/*    background-color: #000000;*/
+/*    color: #ffffff;*/
+/*    font-family: Arial, Helvetica, sans-serif;*/
+/*    font-size: 20px;*/
+/*    text-align: center;*/
+/*    border-radius: 10px;*/
+/*}*/
+
+.ClassCalculator {
+    width: 400px;
+    height: 600px;
+    border: 1px solid #000000;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+@media (max-width: 400px) {
+    .ClassCalculator {
+        width: 90%;
+    }
+}
+
+@media (max-height: 800px) {
+    .ClassCalculator {
+        margin-top: 10px;
+    }
+}
+
+@media (max-height: 600px) {
+    .ClassCalculator {
+        height: 90%;
+    }
+}

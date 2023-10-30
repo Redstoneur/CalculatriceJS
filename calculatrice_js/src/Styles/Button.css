@@ -1,0 +1,22 @@
+.ClassButtonOperator,.ClassButtonNumeric, .ClassButtonClear, .ClassButtonEqual, .ClassButtonPoint, .ClassButton{
+    color: white;
+    border: none;
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.ClassButtonOperator {
+    background-color: #333333;
+}
+
+.ClassButtonNumeric {
+    background-color: #999999;
+}
+
+.ClassButtonClear, .ClassButtonEqual, .ClassButtonPoint, .ClassButton {
+    background-color: #555555;
+}
+
